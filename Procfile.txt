@@ -1,1 +1,1 @@
-web: PygamesRPS.py
+web: RpsGame.py
